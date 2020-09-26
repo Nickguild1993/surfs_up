@@ -16,7 +16,7 @@ The purpose of this analysis was to query the SQLite database of weather related
 
 - Recordings from June reveal less daily temperature fluctuation, with a range of temperatures spanning 21 degrees when compared to December, which shows recorded temperature readings with a range of 27 degrees.
 
-- Both months have rather even distributions without many outliers to speak of. 
+- Both months have rather even distributions without many outliers to speak of, especially the histogram for June. 
 
 
 ## Summary and Further Analysis:
